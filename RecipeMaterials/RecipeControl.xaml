@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="RecipeMaterials.RecipeControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RecipeMaterials"
+             mc:Ignorable="d" d:DesignWidth="130" Height="110">
+    <Grid>
+        <Image x:Name="image" Height="74" Margin="27,5,29,0" VerticalAlignment="Top" Width="74" Source="{Binding Image}">
+            <Image.InputBindings>
+                <MouseBinding MouseAction="LeftClick" Command="{Binding LeftClickCommand}" />
+                <MouseBinding MouseAction="RightClick" Command="{Binding RightClickCommand}" />
+            </Image.InputBindings>
+        </Image>
+        <CheckBox x:Name="checkBox" IsChecked="{Binding Completed}" Content="{Binding Name}" FontSize="10" VerticalContentAlignment="Center" Margin="0,84,0,3" RenderTransformOrigin="0.51,1.061"/>
+
+    </Grid>
+</UserControl>

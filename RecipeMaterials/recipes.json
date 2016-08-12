@@ -1,0 +1,568 @@
+﻿[
+  {
+    "Name": "Awesome Snack",
+    "Materials": {
+      "Fresh Veggie": 1,
+      "Cake Mix": 1
+    }
+  },
+  {
+    "Name": "Berry Snow Bunny",
+    "Materials": {
+      "Snow Bunny": 1,
+      "Pink Apple": 1
+    }
+  },
+  {
+    "Name": "Block Meal",
+    "Materials": { "Block Block": 1 }
+  },
+  {
+    "Name": "Chocolate Cake",
+    "Materials": {
+      "Mild Cocoa Bean": 1,
+      "Cake Mix": 1
+    }
+  },
+  {
+    "Name": "Choco Pasta Dish",
+    "Materials": {
+      "Mild Cocoa Bean": 1,
+      "Fresh Pasta Bunch": 1
+    }
+  },
+  {
+    "Name": "Couple's Cake",
+    "Materials": {
+      "Snow Bunny": 1,
+      "Berry Snow Bunny": 1
+    }
+  },
+  {
+    "Name": "Dangerous Delight",
+    "Materials": { "Poison Shroom": 1 }
+  },
+  {
+    "Name": "Dayzee Syrup",
+    "Materials": { "Dayzee Tear": 1 }
+  },
+  {
+    "Name": "Dyllis Breakfast",
+    "Materials": {
+      "Shroom Shake": 1,
+      "Spicy Soup": 1
+    }
+  },
+  {
+    "Name": "Dyllis Deluxe",
+    "Materials": {
+      "Shroom Steak": 1,
+      "Gorgeous Steak": 1
+    }
+  },
+  {
+    "Name": "Dyllis Dinner",
+    "Materials": {
+      "Fried Shroom Plate": 1,
+      "Meat Pasta Dish": 1
+    }
+  },
+  {
+    "Name": "Dyllis Dynamite",
+    "Materials": {
+      "Egg Bomb": 1,
+      "Dyllis Breakfast": 1
+    }
+  },
+  {
+    "Name": "Dyllis Lunch",
+    "Materials": {
+      "Fried Shroom Plate": 1,
+      "Spaghetti Plate": 1
+    }
+  },
+  {
+    "Name": "Dyllis Special",
+    "Materials": {
+      "Roast Shroom Dish": 1,
+      "Fruity Hamburger": 1
+    }
+  },
+  {
+    "Name": "Egg Bomb",
+    "Materials": {
+      "Big Egg": 1,
+      "Fire Burst": 1
+    }
+  },
+  {
+    "Name": "Electro Pop",
+    "Materials": { "Thunder Rage": 1 }
+  },
+  {
+    "Name": "Emergency Ration",
+    "Materials": {
+      "Fire Burst": 1,
+      "Shroom Shake": 1
+    }
+  },
+  {
+    "Name": "Fried Egg",
+    "Materials": { "Big Egg": 1 }
+  },
+  {
+    "Name": "Fried Shroom Plate",
+    "Materials": { "Shroom Shake": 1 }
+  },
+  {
+    "Name": "Fruit Parfait",
+    "Materials": {
+      "Peachy Peach": 1,
+      "Snow Cone": 1
+    }
+  },
+  {
+    "Name": "Fruity Cake",
+    "Materials": {
+      "Peachy Peach": 1,
+      "Mushroom Crepe": 1
+    }
+  },
+  {
+    "Name": "Fruity Hamburger",
+    "Materials": {
+      "Power Steak": 1,
+      "Keel Mango": 1
+    }
+  },
+  {
+    "Name": "Fruity Punch",
+    "Materials": {
+      "Keel Mango": 1,
+      "Peachy Peach": 1
+    }
+  },
+  {
+    "Name": "Fruity Shroom",
+    "Materials": {
+      "Peachy Peach": 1,
+      "Shroom Shake": 1
+    }
+  },
+  {
+    "Name": "Gingerbread House",
+    "Materials": {
+      "Chocolate Cake": 1,
+      "Mousse": 1
+    }
+  },
+  {
+    "Name": "Golden Choco-bar",
+    "Materials": {
+      "Mild Cocoa Bean": 1,
+      "Golden Leaf": 1
+    }
+  },
+  {
+    "Name": "Golden Meal",
+    "Materials": { "Gold Bar": 1 }
+  },
+  {
+    "Name": "Gorgeous Steak",
+    "Materials": {
+      "Power Steak": 1,
+      "Hamburger": 1
+    }
+  },
+  {
+    "Name": "Gradual Syrup",
+    "Materials": {
+      "Long-Last Shake": 1,
+      "Peachy Peach": 1
+    }
+  },
+  {
+    "Name": "Hamburger",
+    "Materials": { "Power Steak": 1 }
+  },
+  {
+    "Name": "Healthy Salad",
+    "Materials": { "Fresh Veggie": 1 }
+  },
+  {
+    "Name": "Heartful Cake",
+    "Materials": {
+      "Cake Mix": 1,
+      "Lovely Chocolate": 1
+    }
+  },
+  {
+    "Name": "Heavy Meal",
+    "Materials": {
+      "Honey Jar": 1,
+      "Honey Candy": 1
+    }
+  },
+  {
+    "Name": "Herb Tea",
+    "Materials": { "Smelly Herb": 1 }
+  },
+  {
+    "Name": "Honey Candy",
+    "Materials": { "Honey Jar": 1 }
+  },
+  {
+    "Name": "Honey Shroom",
+    "Materials": {
+      "Shroom Shake": 1,
+      "Honey Jar": 1
+    }
+  },
+  {
+    "Name": "Honey Super",
+    "Materials": {
+      "Super Shroom Shake": 1,
+      "Honey Jar": 1
+    }
+  },
+  {
+    "Name": "Horsetail Tart",
+    "Materials": {
+      "Horsetail": 1,
+      "Cake Mix": 1
+    }
+  },
+  {
+    "Name": "Hot Dog",
+    "Materials": {
+      "Power Steak": 1,
+      "Fresh Veggie": 1
+    }
+  },
+  {
+    "Name": "Ink Pasta Dish",
+    "Materials": {
+      "Fresh Pasta Bunch": 1,
+      "Inky Sauce": 1
+    }
+  },
+  {
+    "Name": "Inky Soup",
+    "Materials": { "Inky Sauce": 1 }
+  },
+  {
+    "Name": "Koopa Dumpling",
+    "Materials": {
+      "Cake Mix": 1,
+      "Turtley Leaf": 1
+    }
+  },
+  {
+    "Name": "Koopa Pilaf",
+    "Materials": {
+      "Turtley Leaf": 1,
+      "Horsetail": 1
+    }
+  },
+  {
+    "Name": "Koopa Tea",
+    "Materials": { "Turtley Leaf": 1 }
+  },
+  {
+    "Name": "Koopasta Dish",
+    "Materials": {
+      "Fresh Pasta Bunch": 1,
+      "Turtley Leaf": 1
+    }
+  },
+  {
+    "Name": "Love Pudding",
+    "Materials": {
+      "Lovely Chocolate": 1,
+      "Big Egg": 1
+    }
+  },
+  {
+    "Name": "Love Noodle Dish",
+    "Materials": {
+      "Lovely Chocolate": 1,
+      "Fresh Pasta Bunch": 1
+    }
+  },
+  {
+    "Name": "Lovely Chocolate",
+    "Materials": {
+      "Mild Cocoa Bean": 1,
+      "Fire Burst": 1
+    }
+  },
+  {
+    "Name": "Luxurious Set",
+    "Materials": {
+      "Dyllis Dinner": 1,
+      "Fried Shroom Plate": 1
+    }
+  },
+  {
+    "Name": "Mango Juice",
+    "Materials": { "Keel Mango": 1 }
+  },
+  {
+    "Name": "Mango Pudding",
+    "Materials": {
+      "Keel Mango": 1,
+      "Big Egg": 1
+    }
+  },
+  {
+    "Name": "Meat Pasta Dish",
+    "Materials": {
+      "Fresh Pasta Bunch": 1,
+      "Power Steak": 1
+    }
+  },
+  {
+    "Name": "Megaton Dinner",
+    "Materials": { "POW Block": 1 }
+  },
+  {
+    "Name": "Meteor Meal",
+    "Materials": { "Shooting Star": 1 }
+  },
+  {
+    "Name": "Miracle Dinner",
+    "Materials": { "Mystery Box": 1 }
+  },
+  {
+    "Name": "Mistake",
+    "Materials": { "Sleepy Sheep": 1 }
+  },
+  {
+    "Name": "Mixed Shake",
+    "Materials": {
+      "Peach Juice": 1,
+      "Mango Juice": 1
+    }
+  },
+  {
+    "Name": "Mousse",
+    "Materials": {
+      "Cake Mix": 1,
+      "Big Egg": 1
+    }
+  },
+  {
+    "Name": "Mushroom Crepe",
+    "Materials": {
+      "Shroom Shake": 1,
+      "Cake Mix": 1
+    }
+  },
+  {
+    "Name": "Odd Dinner",
+    "Materials": {
+      "Poison Shroom": 1,
+      "Fried Shroom Plate": 1
+    }
+  },
+  {
+    "Name": "Omelette Plate",
+    "Materials": {
+      "Big Egg": 1,
+      "Horsetail": 1
+    }
+  },
+  {
+    "Name": "Peach Juice",
+    "Materials": { "Peachy Peach": 1 }
+  },
+  {
+    "Name": "Peach Tart",
+    "Materials": {
+      "Peachy Peach": 1,
+      "Cake Mix": 1
+    }
+  },
+  {
+    "Name": "Primordial Dinner",
+    "Materials": {
+      "Primordial Fruit": 1,
+      "Shroom Shake": 1
+    }
+  },
+  {
+    "Name": "Roast Horsetail",
+    "Materials": { "Horsetail": 1 }
+  },
+  {
+    "Name": "Roast Shroom Dish",
+    "Materials": { "Super Shroom Shake": 1 }
+  },
+  {
+    "Name": "Roast Whacka Bump",
+    "Materials": { "Whacka Bump": 1 }
+  },
+  {
+    "Name": "Sap Muffin",
+    "Materials": {
+      "Sap Soup": 1,
+      "Cake Mix": 1
+    }
+  },
+  {
+    "Name": "Sap Syrup",
+    "Materials": { "Sap Soup": 1 }
+  },
+  {
+    "Name": "Shroom Broth",
+    "Materials": {
+      "Smelly Herb": 1,
+      "Shroom Shake": 1
+    }
+  },
+  {
+    "Name": "Shroom Cake",
+    "Materials": {
+      "Super Shroom Shake": 1,
+      "Cake Mix": 1
+    }
+  },
+  {
+    "Name": "Shroom Choco-bar",
+    "Materials": {
+      "Mild Cocoa Bean": 1,
+      "Shroom Shake": 1
+    }
+  },
+  {
+    "Name": "Shroom Delicacy",
+    "Materials": {
+      "Shroom Shake": 1,
+      "Dayzee Tear": 1
+    }
+  },
+  {
+    "Name": "Shroom Pudding",
+    "Materials": {
+      "Big Egg": 1,
+      "Shroom Shake": 1
+    }
+  },
+  {
+    "Name": "Shroom Steak",
+    "Materials": { "Ultra Shroom Shake": 1 }
+  },
+  {
+    "Name": "Sky Juice",
+    "Materials": { }
+  },
+  {
+    "Name": "Slimy Extract",
+    "Materials": { "Slimy Shroom": 1 }
+  },
+  {
+    "Name": "Snow Bunny",
+    "Materials": {
+      "Turtley Leaf": 1,
+      "Ice Storm": 1
+    }
+  },
+  {
+    "Name": "Snow Cone",
+    "Materials": { "Ice Storm": 1 }
+  },
+  {
+    "Name": "Space Food",
+    "Materials": {
+      "Ice Storm": 1,
+      "Shroom Shake": 1
+    }
+  },
+  {
+    "Name": "Spaghetti Plate",
+    "Materials": { "Fresh Pasta Bunch": 1 }
+  },
+  {
+    "Name": "Spicy Dinner",
+    "Materials": {
+      "Big Egg": 1,
+      "Hot Sauce": 1
+    }
+  },
+  {
+    "Name": "Spicy Pasta Dish",
+    "Materials": {
+      "Hot Sauce": 1,
+      "Fresh Pasta Bunch": 1
+    }
+  },
+  {
+    "Name": "Spicy Soup",
+    "Materials": { "Fire Burst": 1 }
+  },
+  {
+    "Name": "Spit Roast",
+    "Materials": { "Bone-In Cut": 1 }
+  },
+  {
+    "Name": "Stamina Juice",
+    "Materials": {
+      "Inky Sauce": 1,
+      "Honey Jar": 1
+    }
+  },
+  {
+    "Name": "Standard Chocolate",
+    "Materials": {
+      "Mild Cocoa Bean": 1,
+      "Poison Shroom": 1
+    }
+  },
+  {
+    "Name": "Sweet Choco-bar",
+    "Materials": {
+      "Mild Cocoa Bean": 1,
+      "Honey Jar": 1
+    }
+  },
+  {
+    "Name": "Sweet Cookie Snack",
+    "Materials": { "Cake Mix": 1 }
+  },
+  {
+    "Name": "Town Special",
+    "Materials": { "Primordial Fruit": 1 }
+  },
+  {
+    "Name": "Trial Stew",
+    "Materials": {
+      "Couple's Cake": 1,
+      "Poison Shroom": 1
+    }
+  },
+  {
+    "Name": "Veggie Set",
+    "Materials": {
+      "Healthy Salad": 1,
+      "Big Egg": 1
+    }
+  },
+  {
+    "Name": "Volcano Shroom",
+    "Materials": {
+      "Hot Sauce": 1,
+      "Shroom Shake": 1
+    }
+  },
+  {
+    "Name": "Warm Cocoa",
+    "Materials": { "Mild Cocoa Bean": 1 }
+  },
+  {
+    "Name": "Weird Extract",
+    "Materials": {
+      "Peach Juice": 1,
+      "Hot Sauce": 1
+    }
+  }
+]
